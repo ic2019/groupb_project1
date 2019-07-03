@@ -21,7 +21,7 @@ _This project focused on the 2015 data and a small subset of the factors questio
 
 _First, we analyzed the relation between our four behaviors and three demographic levels._ 
 
-### Weight Vs Positive Habbits
+### Weight Vs Positive Habits
 
 * Weight in Lbs Vs Fuits and Vegetables/Day
 
@@ -45,7 +45,7 @@ _Analysis/Trend_
 -We see a trend that 174 to 185 lbs, people tend to exercise more and as weight increases no exercixe. -Are people more motivated to exercixe when they weigh less?_
 
 
-### Weight Vs Positive Habbits
+### Weight Vs Positive Habits
 
 * Weight in Lbs Vs Alcohol consumption per day
 
@@ -67,7 +67,7 @@ _Trend/Analysis_
 
 _Based on the survey data, people who smoke daily have an average weight just above 176. But those with an average weight of 180 doesn't seem to smoke at all. Now also see that some with an average wt of 180 refused to answer to the survey question. Now not sure, if that means if they actually smoke or not interested in the survey. So basically not able to find any correlation between weight and smoking habits._
 
-### Education Vs Positive Habbits
+### Education Vs Positive Habits
 
 * Education Vs Fruit and vegetable intake per day
 
@@ -85,7 +85,7 @@ fig(6)
 
 _Analysis/Trend_
 
-### Education Vs Negative Habbits
+### Education Vs Negative Habits
 
 * Education Vs Alcohol consumption per day
 
@@ -131,9 +131,9 @@ Aziz pending
 _Analysis/Trend_
 Aziz pending
 
-### Demographic factors Vs five diseases
+### Demographic factors Vs five Health Risk Indicators.
 
-* Body Mass Index (BMI) and Diseases
+* Body Mass Index (BMI) and Health Risk Indicators
 
 ![bmi_diseases](Images/bmi_diseases.png)
 
@@ -141,7 +141,7 @@ _Analysis/Trend_
 
 _Based on survey data analysis, reported disease count increases as the BMI values goes from UnderWeight to Overweight and suddenly drops. Does that means it's good to be Obese than being Overweight? Or it could be that Obesity in younger age may not still be an issues Vs in older people._
 
-* Education Level and Diseases
+* Education Level and Health Risk Indicators
 
 ![education_diseases](Images/education_diseases.png)
 
@@ -150,7 +150,7 @@ _Analysis/Trend_
 _Based on the survery results, we see that as people are more educated, reported diseases also increases. 1) Education makes people aware more of their health issues? 2) Or more education, more stress and more health issues?_
 
 
-* State of Residence and Diseases
+* State of Residence and Health Risk Indicators
 
 ![state_diseases](Images/state_diseases.png)
 
@@ -176,7 +176,7 @@ _This indicates that more investment in health sector and educating the people i
 
 _Based on the survey data, Heart Disease looks to be the most prevalent disease among all age groups calculated percent wise. 65-69 age groups looks to be one suffering maximum from all diseases 17.5 to 20%] of people in the age groups affected with Cancer and Heart Disease being the top diseses. QTNs? 1)Is it because the median of living retiree left work is at 62 years old, and the most common age to retire was 62 years old. 2)Also once people, retire, insurance coverage might cease to exist if not enough retirement savings. 3)It is also alarming to notice the incidence of BP as the highest disease among 18-24 age groups though they represent only around 0.5% of the total respondents. This could be due to high level of stress, anxiety or issues with unemployment? 4) Every age groups, we can almost consistenly see Blood Cholestrol as the number 1 health risk factor. IS this due to lack of healthy food habits, and lack of physical activities?_
 
-* Gender Vs Diseases
+* Gender Vs Health Risk Indicators
 
 ![gender_disease](Images/gender_disease.png)
 
