@@ -53,7 +53,7 @@ _First, we analyzed the relation between our four behaviors and three demographi
 
 ![fruit_veggie_wt](Images/data_analysis/fruit_veggie_wt.png)
 
-fig(1)
+
 
 _Analysis/Trend_
 
@@ -64,7 +64,7 @@ The trend shows that as the weight starts increasing fruit and veggie consumptio
 
 ![physical_wt](Images/data_analysis/physical_wt.png)
 
-fig(2)
+
 
 _Analysis/Trend_
 
@@ -77,7 +77,7 @@ _Analysis/Trend_
 
 ![alcohol_wt](Images/data_analysis/alcohol_wt.png)
 
-fig(3)
+
 
 _Analysis/Trend_
 
@@ -87,7 +87,7 @@ _There's no trend seen with number of drinks taken as weight increases. -People 
 
 ![smoking_wt](Images/data_analysis/smoking_wt.png)
 
-fig(4)
+
 
 _Trend/Analysis_
 
@@ -97,10 +97,11 @@ _Based on the survey data, people who smoke daily have an average weight just ab
 
 ![education_habits](Images/data_analysis/education_habits.png)
 
-fig(5)
 
 _Trend/Analysis_
 
+_The trend shows that as people are getting more educated, some of the bad habits are reducing. ( Alcohol consumption and % of people Smoking). At the same time fruits consumption is increasing but drop in vegetable consumption per day and physical activities. The more educated, people get busier and less time for exercie may be?
+But overall, education drives awareness._
 
 
 ### State of Residence Vs Habits and Health Risks
@@ -108,7 +109,7 @@ _Trend/Analysis_
 
 ![states_habits_diseases](Images/data_analysis/states_habits_diseases.png)
 
-fig(6)
+In this analysis, we have randomly choosing 10 states and comparing the total disease % in those states against various habits.
 
 _Trend/Analysis_
 
@@ -116,7 +117,7 @@ _Trend/Analysis_
 
 ![State_alcohol](Images/data_analysis/State_alcohol.png)
 
-fig(7)
+
 
 _Analysis/Trend_
 
@@ -125,13 +126,13 @@ _Analysis/Trend_
 
 ![Smoking_Per_States](Images/data_analysis/Smoking_Per_States.png)
 
-fig(8)
+
 
 _Analysis/Trend_
 
 * Top States by Alcohol consumption per day
 
-fig(9)
+
 
 ![State_alcohol](Images/data_analysis/State_alcohol.png)
 
@@ -139,7 +140,7 @@ fig(9)
 
 ![Pyhsical_activity](Images/data_analysis/Pyhsical_activity.png)
 
-fig(10)
+
 
 ### Demographic factors Vs five Health Risk Indicators.
 
@@ -147,7 +148,7 @@ fig(10)
 
 ![bmi_diseases](Images/data_analysis/bmi_diseases.png)
 
-fig(11)
+
 
 _Analysis/Trend_
 
@@ -157,7 +158,7 @@ _Analysis/Trend_
 
 ![education_diseases](Images/data_analysis/education_diseases.png)
 
-fig(12)
+
 
 _Analysis/Trend_
 
@@ -169,7 +170,7 @@ _Analysis/Trend_
 
 ![top_healthy](Images/data_analysis/top_healthy_10.png)
 
-fig(13)
+
 
 _Analysis/Trend_
 
@@ -177,7 +178,7 @@ _Percentage of diseases reported based on survey data shows that lowest percetga
 
 ![least_healthy](Images/data_analysis/least_healthy_10.png)
 
-fig(14)
+
 
 _Analysis/Trend_
 
@@ -191,14 +192,14 @@ _This indicates that more investment in health sector and educating the people i
 
 ![age_disease](Images/data_analysis/age_disease.png)
 
-fig(15)
+
 
 _Based on the survey data, Heart Disease looks to be the most prevalent disease among all age groups calculated percent wise. 65-69 age groups looks to be one suffering maximum from all diseases 17.5 to 20%] of people in the age groups affected with Cancer and Heart Disease being the top diseses. QTNs? 1)Is it because the median of living retiree left work is at 62 years old, and the most common age to retire was 62 years old. 2)Also once people, retire, insurance coverage might cease to exist if not enough retirement savings. 3)It is also alarming to notice the incidence of BP as the highest disease among 18-24 age groups though they represent only around 0.5% of the total respondents. This could be due to high level of stress, anxiety or issues with unemployment? 4) Every age groups, we can almost consistenly see Blood Cholestrol as the number 1 health risk factor. IS this due to lack of healthy food habits, and lack of physical activities?_
 
 * Gender Vs Health Risk Indicators
 
 ![gender_disease](Images/data_analysis/gender_disease.png)
-fig(16)
+
 
 _Survey data shows that men outnumber women in all health risk indicatory with Heart disease being the top most one with 73.77%. Women with Cancer as the top most health risk indicator with 51.66%. But as per https.Cancer.gov, https://www.cancer.gov/about-cancer/understanding/statistics 1.8% per year among men from 2006 to 2015 1.4% per year among women from 2006 to 2015 -It could be because, the sample data we have collected not actually representing the actual population._
 
@@ -211,7 +212,7 @@ _On average, Americans can now expect to live 78.6 years, a statistically signif
 
 ![DieseasesPie](Images/data_analysis/DieseasesPie.png)
 
-fig(17)
+
 
 _Analysis/Trend_
 
