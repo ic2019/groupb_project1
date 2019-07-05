@@ -7,18 +7,45 @@ _The Behavioral Risk Factor Surveillance System (BRFSS)_ is the nation’s premi
 
 ![cover](./Images/cover1.png)
 
-
-_The questions of this project centered around the Behavioral Risk Factor Surveillance System (BRFSS) run through the United States  Center for Disease Control (CDC). This project is a nationwide-phone based survey that aims to find connections between behaviors people exhibit and potential for future diseases or medical conditions. Originally started in 1984 and spanning across 15 states, it  now includes participants from all 50 states and 3 territories. At 400,000 adults interviews per year, it has become the most  extensive medical survey worldwide._
-
-_This project focused on the 2015 data and a small subset of the factors questioned about. As far as diseases, included is: cancer, high cholesterol, diabetes, heart disease, and high blood pressure. In order to see the impact of both positive and negative  behaviors on health, two of each are included. In the beneficial behavior section is fruit and vegetable intake per day and minutes  of physical activity per day and in the negative section is alcohol consumption per day  and smoking rate per day. As far as  demographics body mass index (BMI), education level, and state of residence are included._
+_This project focused on the 2015 data and a small subset of the factors questioned about. As far as diseases, included is: cancer, high cholesterol, diabetes, heart disease, and high blood pressure. In order to see the impact of both positive and negative  behaviors on health, two of each are included. In the beneficial behavior section is fruit and vegetable intake per day and minutes  of physical activity per day and in the negative section is alcohol consumption per day  and smoking rate per day. As far as  demographics body mass index (BMI), education level, and state of residence and age are included._
 
 * Null Hypothesis:
 
 * Behavior Patterns has no impact on diseases we develop in life.
 
-* Trends/Analysis
+### Data Exploration and Cleaning
+
+_Original Raw Data Preview_
+
+![Original_Data_Preview](Images/data_exploration/Original_Data_Preview.png)
+
+_Original MetaData_
+
+![metadata_original_data](Images/data_exploration/metadata_original_data.png)
+
+_Reduced Raw Data Preview_
+
+![reduced_data](Images/data_exploration/reduced_data.png)
+
+_Final Data_
+
+![final_data](Images/data_exploration/final_data.png)
+
+_Final MetaData_
+
+![final_metadata](Images/data_exploration/final_metadata.png)
+
+
+_Preview of Descriptive statistical Info_
+
+![data_describe](Images/data_exploration/data_describe.png)
+
+_Pairwise Correlation of Numerical Data_
+
+![corr_table](Images/data_exploration/corr_table.png)
 
 _First, we analyzed the relation between our four behaviors and three demographic levels._ 
+
 
 ### Weight Vs Positive Habits
 
