@@ -47,7 +47,9 @@ _Pairwise Correlation of Numerical Data_
 _First, we analyzed the relation between our four behaviors and three demographic levels._ 
 
 
-### Weight Vs Positive Habits
+### Data Exploration and Cleaning
+
+#### Weight Vs Positive Habits
 
 * Weight in Lbs Vs Fuits and Vegetables/Day
 
@@ -71,7 +73,7 @@ _Analysis/Trend_
 -We see a trend that 174 to 185 lbs, people tend to exercise more and as weight increases no exercixe. -Are people more motivated to exercixe when they weigh less?_
 
 
-### Weight Vs Negative Habits
+#### Weight Vs Negative Habits
 
 * Weight in Lbs Vs Alcohol consumption per day
 
@@ -93,23 +95,22 @@ _Trend/Analysis_
 
 _Based on the survey data, people who smoke daily have an average weight just above 176. But those with an average weight of 180 doesn't seem to smoke at all. Now also see that some with an average wt of 180 refused to answer to the survey question. Now not sure, if that means if they actually smoke or not interested in the survey. So basically not able to find any correlation between weight and smoking habits._
 
-### Education Vs Habits
+#### Education Vs Habits
 
 ![education_habits](Images/data_analysis/education_habits.png)
 
 
 _Trend/Analysis_
 
-_The trend shows that as people are getting more educated, some of the bad habits are reducing. ( Alcohol consumption and % of people Smoking). At the same time fruits consumption is increasing but drop in vegetable consumption per day and physical activities. The more educated, people get busier and less time for exercie may be?
-But overall, education drives awareness._
+_The trend shows that as people are getting more educated, some of the bad habits are reducing. ( Alcohol consumption and % of people Smoking). At the same time fruits consumption is increasing but drop in vegetable consumption per day and physical activities. The more educated, people get busier and less time for exercie may be? But overall, education drives awareness._
 
 
-### State of Residence Vs Habits and Health Risks
+#### State of Residence Vs Habits and Health Risks
 
 
 ![states_habits_diseases](Images/data_analysis/states_habits_diseases.png)
 
-In this analysis, we have randomly choosing 10 states and comparing the total disease % in those states against various habits.
+In this analysis, we have randomly chosen 10 states and comparing the total disease % against various habits.
 
 _Trend/Analysis_
 
@@ -142,7 +143,7 @@ _Analysis/Trend_
 
 
 
-### Demographic factors Vs five Health Risk Indicators.
+#### Demographic factors Vs five Health Risk Indicators.
 
 * Body Mass Index (BMI) and Health Risk Indicators
 
@@ -186,7 +187,7 @@ _ Highest percentage is reported by Arizona at 25.98 followed by territory Puert
 
 _This indicates that more investment in health sector and educating the people in these states could be done._
 
-###  Extra Demographic Analysis:
+####  Extra Demographic Analysis:
 
 * Age Vs Health Risk Indicators
 
@@ -208,7 +209,7 @@ _Qtns: 1) Is it because many of contributing factors of Heart disease are Drinki
 _On average, Americans can now expect to live 78.6 years, a statistically significant drop of 0.1 year, according to a report on 2016 data published Thursday by the National Center for Health Statistics. Women can now expect to live a full five years longer than men: 81.1 years vs. 76.1 years._ [link](https://www.smithsonianmag.com/smart-news/us-life-expectancy-drops-third-year-row-reflecting-rising-drug-overdose-suicide-rates-180970942/)
 
 
-### Country wise status on 5 Health Risk indicators.
+#### Country wise status on 5 Health Risk indicators.
 
 ![DieseasesPie](Images/data_analysis/DieseasesPie.png)
 
