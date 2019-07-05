@@ -5,6 +5,6 @@ _The Behavioral Risk Factor Surveillance System (BRFSS)_ is the nation’s premi
 
 (Courtsey: [CDC](https://www.cdc.gov/brfss/index.html))
 
-![cover](./Images/cover.png)
+![cover](./Images/cover1.png)
 
 
