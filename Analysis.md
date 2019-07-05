@@ -8,7 +8,6 @@ _The Behavioral Risk Factor Surveillance System (BRFSS)_ is the nation’s premi
 ![cover](./Images/cover.png)
 
 
-
 _The questions of this project centered around the Behavioral Risk Factor Surveillance System (BRFSS) run through the United States  Center for Disease Control (CDC). This project is a nationwide-phone based survey that aims to find connections between behaviors people exhibit and potential for future diseases or medical conditions. Originally started in 1984 and spanning across 15 states, it  now includes participants from all 50 states and 3 territories. At 400,000 adults interviews per year, it has become the most  extensive medical survey worldwide._
 
 _This project focused on the 2015 data and a small subset of the factors questioned about. As far as diseases, included is: cancer, high cholesterol, diabetes, heart disease, and high blood pressure. In order to see the impact of both positive and negative  behaviors on health, two of each are included. In the beneficial behavior section is fruit and vegetable intake per day and minutes  of physical activity per day and in the negative section is alcohol consumption per day  and smoking rate per day. As far as  demographics body mass index (BMI), education level, and state of residence are included._
@@ -25,7 +24,7 @@ _First, we analyzed the relation between our four behaviors and three demographi
 
 * Weight in Lbs Vs Fuits and Vegetables/Day
 
-![fruit_veggie_wt](Images/fruit_veggie_wt.png)
+![fruit_veggie_wt](Images/data_analysis/fruit_veggie_wt.png)
 
 fig(1)
 
@@ -36,7 +35,7 @@ The trend shows that as the weight starts increasing fruit and veggie consumptio
 
 * Weight in Lbs Vs Minutes of Physical Activity/Day
 
-![physical_wt](Images/physical_wt.png)
+![physical_wt](Images/data_analysis/physical_wt.png)
 
 fig(2)
 
@@ -45,11 +44,11 @@ _Analysis/Trend_
 -We see a trend that 174 to 185 lbs, people tend to exercise more and as weight increases no exercixe. -Are people more motivated to exercixe when they weigh less?_
 
 
-### Weight Vs Positive Habits
+### Weight Vs Negative Habits
 
 * Weight in Lbs Vs Alcohol consumption per day
 
-![alcohol_wt](Images/alcohol_wt.png)
+![alcohol_wt](Images/data_analysis/alcohol_wt.png)
 
 fig(3)
 
@@ -59,7 +58,7 @@ _There's no trend seen with number of drinks taken as weight increases. -People 
 
 * Weight Vs Smoking rate per day
 
-![smoking_wt](Images/smoking_wt.png)
+![smoking_wt](Images/data_analysis/smoking_wt.png)
 
 fig(4)
 
@@ -67,100 +66,79 @@ _Trend/Analysis_
 
 _Based on the survey data, people who smoke daily have an average weight just above 176. But those with an average weight of 180 doesn't seem to smoke at all. Now also see that some with an average wt of 180 refused to answer to the survey question. Now not sure, if that means if they actually smoke or not interested in the survey. So basically not able to find any correlation between weight and smoking habits._
 
-### Education Vs Positive Habits
+### Education Vs Habits
 
-* Education Vs Fruit and vegetable intake per day
+![education_habits](Images/data_analysis/education_habits.png)
 
-@Carmen pending the graph and analysis.
-
-fig (5)
+fig(5)
 
 _Trend/Analysis_
 
-* Education Vs Minutes of physical activity per day
 
-@Carmen pending the graph and analysis.
+
+### State of Residence Vs Habits and Health Risks
+
+
+![states_habits_diseases](Images/data_analysis/states_habits_diseases.png)
+
+
+### State of Residence Vs Habits
+
+* Top 10 Fruit and Veggie consumption states
+
+![State_alcohol](Images/data_analysis/State_alcohol.png)
 
 fig(6)
 
 _Analysis/Trend_
 
-### Education Vs Negative Habits
 
-* Education Vs Alcohol consumption per day
-
-@Carmen pending the graph and analysis.
-
-_Analysis/Trend_
-
-* Education Vs Smoking rate per day
-
-@Carmen Wells Pending
-
-_Trend/Analysis_
-
-### State of Residence Vs Positive Habits
-
-* State of Residence Vs Fruit and vegetable intake per day (Top 10 States)
-
-![Fruit_aconsumption](Images/Fruit_aconsumption.png)
-
-_Analysis/Trend_
-Aziz pending
-
-* State of Residence Vs  Minutes of physical activity per day
-
-![Pyhsical_activity](Images/Pyhsical_activity.png)
-
-_Analysis/Trend_
-Aziz pending
-
-### State of Residence Vs Negative Habits
-
-* State of Residence Vs Alcohol consumption per day
-
-![State_alcohol](Images/State_alcohol.png)
-
-_Analysis/Trend_
-Aziz pending
-
-* State of Residence Vs Smoking rate per day
+* State of Residence Vs Smoking rate per day and Alcohol consumption
 
 ![Smoking_Per_States](Images/Smoking_Per_States.png)
 
+fig(7)
+
 _Analysis/Trend_
-Aziz pending
+
 
 ### Demographic factors Vs five Health Risk Indicators.
 
 * Body Mass Index (BMI) and Health Risk Indicators
 
-![bmi_diseases](Images/bmi_diseases.png)
+![bmi_diseases](Images/data_analysis/bmi_diseases.png)
+
+fig(8)
 
 _Analysis/Trend_
 
-_Based on survey data analysis, reported disease count increases as the BMI values goes from UnderWeight to Overweight and suddenly drops. Does that means it's good to be Obese than being Overweight? Or it could be that Obesity in younger age may not still be an issues Vs in older people._
+
 
 * Education Level and Health Risk Indicators
 
-![education_diseases](Images/education_diseases.png)
+![education_diseases](Images/data_analysis/education_diseases.png)
+
+fig(9)
 
 _Analysis/Trend_
 
-_Based on the survery results, we see that as people are more educated, reported diseases also increases. 1) Education makes people aware more of their health issues? 2) Or more education, more stress and more health issues?_
+
 
 
 * State of Residence and Health Risk Indicators
 
-![state_diseases](Images/state_diseases.png)
 
-![top_healthy](Images/top_healthy_10.png)
+![top_healthy](Images/data_analysis/top_healthy_10.png)
+
+fig(10)
 
 _Analysis/Trend_
 
 _Percentage of diseases reported based on survey data shows that lowest percetgae reported is 17.86 by territory Guam followed by Vermont at 18.41%._
 
-![least_healthy](Images/least_healthy_10.png)
+![least_healthy](Images/data_analysis/least_healthy_10.png)
+
+fig(11)
 
 _Analysis/Trend_
 
@@ -168,26 +146,33 @@ _ Highest percentage is reported by Arizona at 25.98 followed by territory Puert
 
 _This indicates that more investment in health sector and educating the people in these states could be done._
 
-###  Extra Demographic Challenges:
+###  Extra Demographic Analysis:
 
-* Age Vs Disease
+* Age Vs Health Risk Indicators
 
-![age_disease](Images/age_disease.png)
+![age_disease](Images/data_analysis/age_disease.png)
+
+fig(12)
 
 _Based on the survey data, Heart Disease looks to be the most prevalent disease among all age groups calculated percent wise. 65-69 age groups looks to be one suffering maximum from all diseases 17.5 to 20%] of people in the age groups affected with Cancer and Heart Disease being the top diseses. QTNs? 1)Is it because the median of living retiree left work is at 62 years old, and the most common age to retire was 62 years old. 2)Also once people, retire, insurance coverage might cease to exist if not enough retirement savings. 3)It is also alarming to notice the incidence of BP as the highest disease among 18-24 age groups though they represent only around 0.5% of the total respondents. This could be due to high level of stress, anxiety or issues with unemployment? 4) Every age groups, we can almost consistenly see Blood Cholestrol as the number 1 health risk factor. IS this due to lack of healthy food habits, and lack of physical activities?_
 
 * Gender Vs Health Risk Indicators
 
-![gender_disease](Images/gender_disease.png)
+![gender_disease](Images/data_analysis/gender_disease.png)
+fig(13)
 
 _Survey data shows that men outnumber women in all health risk indicatory with Heart disease being the top most one with 73.77%. Women with Cancer as the top most health risk indicator with 51.66%. But as per https.Cancer.gov, https://www.cancer.gov/about-cancer/understanding/statistics 1.8% per year among men from 2006 to 2015 1.4% per year among women from 2006 to 2015 -It could be because, the sample data we have collected not actually representing the actual population._
 
 _Qtns: 1) Is it because many of contributing factors of Heart disease are Drinking, Smoking Obesity which might be common issues among Men than Women? 2) The survey data shows that Women mostly affected by Cancer though_
 
+_On average, Americans can now expect to live 78.6 years, a statistically significant drop of 0.1 year, according to a report on 2016 data published Thursday by the National Center for Health Statistics. Women can now expect to live a full five years longer than men: 81.1 years vs. 76.1 years._ [link](https://www.smithsonianmag.com/smart-news/us-life-expectancy-drops-third-year-row-reflecting-rising-drug-overdose-suicide-rates-180970942/)
+
 
 ### Country wise status on 5 Health Risk indicators.
 
-![DieseasesPie](Images/DieseasesPie.png)
+![DieseasesPie](Images/data_analysis/DieseasesPie.png)
+
+fig(14)
 
 _Analysis/Trend_
 
