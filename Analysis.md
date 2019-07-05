@@ -82,7 +82,6 @@ _Trend/Analysis_
 ![states_habits_diseases](Images/data_analysis/states_habits_diseases.png)
 
 
-### State of Residence Vs Habits
 
 * Top 10 Fruit and Veggie consumption states
 
@@ -93,13 +92,23 @@ fig(6)
 _Analysis/Trend_
 
 
-* State of Residence Vs Smoking rate per day and Alcohol consumption
+* Top States by Smoking rate per day
 
-![Smoking_Per_States](Images/Smoking_Per_States.png)
+![Smoking_Per_States](Images/data_analysis/Smoking_Per_States.png)
 
 fig(7)
 
 _Analysis/Trend_
+
+* Top States by Alcohol consumption per day
+
+fig(8)
+
+![State_alcohol](Images/data_analysis/State_alcohol.png)
+
+* States by Physical Activities per day
+
+![Pyhsical_activity](Images/data_analysis/Pyhsical_activity.png)
 
 
 ### Demographic factors Vs five Health Risk Indicators.
