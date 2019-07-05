@@ -5,7 +5,7 @@ _The Behavioral Risk Factor Surveillance System (BRFSS)_ is the nation’s premi
 
 (Courtsey: [CDC](https://www.cdc.gov/brfss/index.html))
 
-![cover](./Images/cover.png)
+![cover](./Images/cover1.png)
 
 
 _The questions of this project centered around the Behavioral Risk Factor Surveillance System (BRFSS) run through the United States  Center for Disease Control (CDC). This project is a nationwide-phone based survey that aims to find connections between behaviors people exhibit and potential for future diseases or medical conditions. Originally started in 1984 and spanning across 15 states, it  now includes participants from all 50 states and 3 territories. At 400,000 adults interviews per year, it has become the most  extensive medical survey worldwide._
