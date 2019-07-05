@@ -47,7 +47,7 @@ _Pairwise Correlation of Numerical Data_
 _First, we analyzed the relation between our four behaviors and three demographic levels._ 
 
 
-### Data Exploration and Cleaning
+### Data Analysis
 
 #### Weight Vs Positive Habits
 
