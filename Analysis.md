@@ -54,14 +54,16 @@ _First, we analyzed the relation between our four behaviors and three demographi
 1) Are men or women more physically active? 
 2) Do men or women have healthier habits?
 
-* Weight in Lbs Vs Fuits and Vegetables/Day
+* Weight in Lbs Vs Fruits and Vegetables/Day
 
 ![fruit_veggie_wt](Images/data_analysis/fruit_veggie_wt.png)
 
 
 _Analysis/Trend_
 
-The trend shows that as the consumption of Fruit and Vegatbales increases, weight also tend to reduce. Women seems to eat less fruits than men. Even though there are some people with more than 400 lbs weight with a consumption of total 5 fruits and veggies together, average weight remains less than 300 lbs.
+_In this part of our data analysis, we looked at the pattern between weight and fruit + vegetable consumption (combined) by considering participants genders.
+1) The scatter plot showed that the higher weight people eat less fruit or vegetable._
+
 
 
 * Weight in Lbs Vs Minutes of Physical Activity/Day
@@ -82,10 +84,9 @@ _We can see that as more minutes spent on physical activity, no cases of weight 
 
 ![alcohol_wt](Images/data_analysis/alcohol_wt.png)
 
-
 _Analysis/Trend_
 
-__
+_In this graph, we observed a negative correlation between weight and alcohol consumption.  This might not be accurate  (many studies shows that alcohol cause weight gain ) due to various other parameters. This part needs further investigation._
 
 * Weight Vs Smoking rate per day
 
@@ -107,7 +108,15 @@ _There is no specific trend seen on weight with smoking and mostly weight range 
 
 _Trend/Analysis_
 
-_The trend shows that as people are getting more educated, some of the bad habits are reducing. ( Alcohol consumption and % of people Smoking). At the same time fruits consumption is increasing but drop in vegetable consumption per day and physical activities. The more educated, people get busier and less time for exercie may be? But overall, education drives awareness._
+_In this segment of our project, we crafted a line chart of education level and habits. Education level for this study is comprised of six categories: No school, elementary, middle, junior high, college 3 yrs, and college 4yrs. The habits we were interested in analyzing were Fruit consumption per day, Vegetable consumption per day,  Physical activities per day, alcohol consumption per day, and % of smoking._
+
+_Line chart showed that:_
+- _Fruit consumption is correlated with education level except for the segment between no school and elementary._
+- _Vegetable consumption goes down from no school to primary and stays constant for other levels of education.  This is an interesting data point._
+- _Physical activity goes up from no school to elementary and almost stays the same as vegetable data. Except for a minor declination from college 3 yrs to college 4yrs._
+- Alcohol consumption shows the same from no school to high school. However, it linearly goes down from high school to college 4 yrs.
+- _Smoking patterns are slightly different from the rest. It is the same for no school and elementary; however, the smoking rate goes up from the middle to high school education. Then it starts going down from high school to all the way college 4 yrs._
+- _There is a positive correlation between alcohol consumption and smoking rate for almost all educational levels._
 
 
 #### State of Residence Vs Habits and Health Risks
@@ -123,7 +132,29 @@ _The trend shows that as people are getting more educated, some of the bad habit
 
 ![states_habits_diseases](Images/data_analysis/states_habits_diseases.png)
 
-In this analysis, we have randomly chosen 10 states and comparing the total disease % against various habits.
+_In this graph, we were interested in seeing the pattern between total diseases and behaviors (fruit consumption, vegetable consumption, physical activities, smoking, and alcohol consumption) for ten states._
+- _The line chart showed that the more people eat vegetable and fruit the less disaster they confront._
+- _Surprisingly, the line chart does not show a clear pattern between smoking rate and total disaster and physical activities and total disaster as well.  In some segments of the graph, there is a positive correlation; on the other hand, in some areas it shows the opposite. It is maybe due to the sample size._
+
+- _There is also an inconsistency between total disaster and weight. Some areas of the graph show a positive trend between weight and  the total disaster; however, in some areas there is positive which we were not expecting to be that way. It is maybe due to the sample size._
+
+                                                               _Most and the Least Healthy States_
+_In this diagram, we sorted the most 10 healthy states and the least 10 healthy states based. We have added cancer rate, blood pressure rate, cholesterol,  and heart diseases rates. This data includes territory too._
+
+    _Top 10 Healty_
+State Code
+GU    17.86
+VT    18.41
+UT    19.44
+CO    19.83
+MN    20.26
+    _Least 10 Healthy_
+State Code
+MS    24.96
+LA    25.26
+MD    25.47
+PR    25.97
+AR    25.98
 
 _Trend/Analysis_
 
@@ -176,7 +207,9 @@ _Wyoming, Nevada and Oregan appear to be the most active states. These are all r
 
 _Analysis/Trend_
 
-_It appears that occurrences of cancer peak within the overweight BMI range but lessen again within the obese range. Does this indicate a lack of relation between cancer and weight issues? The four other diseases (high blood pressure, high cholesterol, heart disease, and diabetes) and increased BMI appear to be directly correlated._ 
+_In this graph we are analysing Body Mass Index against various reported Health Risk Indicators like Cancer, High Blood Pressure and High Cholestrol._
+_It appears that occurrences of cancer peak within the overweight BMI range but lessen again within the obese range. Does this indicate a lack of relation between cancer and weight issues? Diabetes and Heart Disease seems to be of lower percentage (<5 %) for Diabetes and Heart Disease and <30 % for High Blood Pressure and High Cholestrol until BMI is of Normal Weight and starts to rise high towards Overweight and Obese levels._
+_So overall four diseases (high blood pressure, high cholesterol, heart disease, and diabetes) and increased BMI appear to be directly correlated. And so it's worth to follow positive habits to take control of weight and be in the Normal Weight category._ 
 
 * Education Level and Health Risk Indicators
 
@@ -184,7 +217,8 @@ _It appears that occurrences of cancer peak within the overweight BMI range but 
 
 _Analysis/Trend_
 
-_Instances of diabetes peak dramatically for those who were only educated at a high school level. We already saw that diabetes is related to a higher BMI and that more educated people exhibit healthier habits. Is that what we're seeing here. Alternatively, is this number high because diabetes can impact the youth as well? Are we seeing the number of people unable to continue education due to illness? Heart disease, high cholesterol, and high blood pressure levels are all highest for people who only completed elementary or junior high. This matches the diabetes data as well. This indicates that those who have some level of education but never completed high school are most likely to suffer from these diseases. Alternatively, cancer appears to not follow this trend. It increases as people become more educated._
+_Instances of diabetes peak dramatically for those who were only educated at a high school level. We already saw that diabetes is related to a higher BMI and that more educated people exhibit healthier habits. Is that what we're seeing here. Alternatively, is this number high because diabetes can impact the youth as well? Are we seeing the number of people unable to continue education due to illness? Heart disease, high cholesterol, and high blood pressure levels are all highest for people who only completed elementary or junior high. This matches the diabetes data as well. This indicates that those who have some level of education but never completed high school are most likely to suffer from these diseases. Alternatively, cancer appears to not follow this trend. It increases as people become more educated which could also be that._
+_In nutshell, education seems to drive awareness, and follow positive habits eventually lowering the health risks_
 
 
 * State of Residence and Health Risk Indicators
