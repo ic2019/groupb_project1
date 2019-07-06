@@ -133,39 +133,27 @@ _Line chart showed that:_
 ![states_habits_diseases](Images/data_analysis/states_habits_diseases.png)
 
 _In this graph, we were interested in seeing the pattern between total diseases and behaviors (fruit consumption, vegetable consumption, physical activities, smoking, and alcohol consumption) for ten states._
-- _The line chart showed that the more people eat vegetable and fruit the less disaster they confront._
-- _Surprisingly, the line chart does not show a clear pattern between smoking rate and total disaster and physical activities and total disaster as well.  In some segments of the graph, there is a positive correlation; on the other hand, in some areas it shows the opposite. It is maybe due to the sample size._
+- _The line chart showed that the more people eat vegetable and fruit the less diseases they confront._
+- _Surprisingly, the line chart does not show a clear pattern between smoking rate and total diseases and physical activities and total diseases as well.  In some segments of the graph, there is a positive correlation; on the other hand, in some areas it shows the opposite. It is maybe due to the sample size._
 
-- _There is also an inconsistency between total disaster and weight. Some areas of the graph show a positive trend between weight and  the total disaster; however, in some areas there is positive which we were not expecting to be that way. It is maybe due to the sample size._
+- _There is also an inconsistency between total diseases and weight. Some areas of the graph show a positive trend between weight and  the total diseases; however, in some areas there is positive which we were not expecting to be that way. It is maybe due to the sample size._
 
-                                                               _Most and the Least Healthy States_
-_In this diagram, we sorted the most 10 healthy states and the least 10 healthy states based. We have added cancer rate, blood pressure rate, cholesterol,  and heart diseases rates. This data includes territory too._
-
-    _Top 10 Healty_
-State Code
-GU    17.86
-VT    18.41
-UT    19.44
-CO    19.83
-MN    20.26
-    _Least 10 Healthy_
-State Code
-MS    24.96
-LA    25.26
-MD    25.47
-PR    25.97
-AR    25.98
 
 _Trend/Analysis_
 
-* Top 10 Fruit and Veggie consumption states
+* Top Fruits and Vegetables consumption
 
-![State_alcohol](Images/data_analysis/State_alcohol.png)
-
-
+![Fruit_aconsumption](Images/data_analysis/Fruit_aconsumption.png)
 
 _Analysis/Trend_
 
+_Fruits Consumption Per Day (Top 10 States)_
+
+_We found average fruits consumption for all states along with the territory. The bar chart shows the states that consume most fruits are as follows:_
+DC, ME, MA, NY, CT, NH , VT , MI , RI , OR
+
+_We found vegetable consumption for all states along with the territory. The bar chart shows the states that consume the most fruits are as follows:_
+VT, OR, AK , TX , CA , DC , GA , ME , GU , NV
 
 * Top States by Smoking rate per day
 
