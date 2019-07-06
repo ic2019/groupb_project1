@@ -9,9 +9,6 @@ _The Behavioral Risk Factor Surveillance System (BRFSS)_ is the nation’s premi
 
 _This project focused on the 2015 data and a small subset of the factors questioned about. As far as diseases, included is: cancer, high cholesterol, diabetes, heart disease, and high blood pressure. In order to see the impact of both positive and negative  behaviors on health, two of each are included. In the beneficial behavior section is fruit and vegetable intake per day and minutes  of physical activity per day and in the negative section is alcohol consumption per day  and smoking rate per day. As far as  demographics body mass index (BMI), education level, and state of residence and age are included._
 
-* Null Hypothesis:
-
-* Behavior Patterns has no impact on diseases we develop in life.
 
 ### Data Exploration and Cleaning
 
@@ -43,6 +40,7 @@ _Preview of Descriptive statistical Info_
 _Pairwise Correlation of Numerical Data_
 
 ![corr_table](Images/data_exploration/corr_table.png)
+
 
 _First, we analyzed the relation between our four behaviors and three demographic levels._ 
 
