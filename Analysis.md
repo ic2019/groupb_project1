@@ -143,6 +143,10 @@ _Trend/Analysis_
 
 ![Fruit_aconsumption](Images/data_analysis/Fruit_aconsumption.png)
 
+
+![Vegatable_consumption](Images/data_analysis/Vegatable_consumption.png)
+
+
 _Analysis/Trend_
 
 _Fruits Consumption Per Day (Top 10 States)_
