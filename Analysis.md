@@ -133,10 +133,10 @@ _Line chart showed that:_
 ![states_habits_diseases](Images/data_analysis/states_habits_diseases.png)
 
 _In this graph, we were interested in seeing the pattern between total diseases and behaviors (fruit consumption, vegetable consumption, physical activities, smoking, and alcohol consumption) for ten states._
-- _The line chart showed that the more people eat vegetable and fruit the less disaster they confront._
-- _Surprisingly, the line chart does not show a clear pattern between smoking rate and total disaster and physical activities and total disaster as well.  In some segments of the graph, there is a positive correlation; on the other hand, in some areas it shows the opposite. It is maybe due to the sample size._
+- _The line chart showed that the more people eat vegetable and fruit the less diseases they confront._
+- _Surprisingly, the line chart does not show a clear pattern between smoking rate and total diseases and physical activities and total diseases as well.  In some segments of the graph, there is a positive correlation; on the other hand, in some areas it shows the opposite. It is maybe due to the sample size._
 
-- _There is also an inconsistency between total disaster and weight. Some areas of the graph show a positive trend between weight and  the total disaster; however, in some areas there is positive which we were not expecting to be that way. It is maybe due to the sample size._
+- _There is also an inconsistency between total diseases and weight. Some areas of the graph show a positive trend between weight and  the total diseases; however, in some areas there is positive which we were not expecting to be that way. It is maybe due to the sample size._
 
 
 _Trend/Analysis_
