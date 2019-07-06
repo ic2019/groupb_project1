@@ -144,6 +144,7 @@ _Trend/Analysis_
 ![Fruit_aconsumption](Images/data_analysis/Fruit_aconsumption.png)
 
 
+
 ![Vegatable_consumption](Images/data_analysis/Vegatable_consumption.png)
 
 
