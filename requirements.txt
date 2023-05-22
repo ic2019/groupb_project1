@@ -7,7 +7,7 @@ notebook==5.7.8
 numpy==1.16.3
 pandas==0.24.2
 plotly==3.10.0
-requests==2.21.0
+requests==2.31.0
 scikit-image==0.15.0
 scikit-learn==0.21.1
 scipy==1.2.1
