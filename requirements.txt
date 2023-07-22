@@ -1,5 +1,5 @@
 jupyter-client==5.2.4
-jupyter-core==4.4.0
+jupyter-core==4.11.2
 kaggle==1.5.4
 MarkupSafe==1.1.1
 matplotlib==3.0.3
